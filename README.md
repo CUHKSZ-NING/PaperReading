@@ -9,4 +9,5 @@ A repo for recording some useful papers.
 
 > 2023-5-21
 * `AutoML` `Imbalanced Learning` Automated Imbalanced Learning, arxiv, 2022.
-* `Genetic Algorithm` `Feature Selection`, LAGAM: A Length-Adaptive Genetic Algorithm With Markov Blanket for High-Dimensional Feature Selection in Classification, TCyb, 2022.
+* `Genetic Algorithm` `Feature Selection` LAGAM: A Length-Adaptive Genetic Algorithm With Markov Blanket for High-Dimensional Feature Selection in Classification, TCyb, 2022.
+* `Imbalanced Learning` Globalized Multiple Balanced Subsets With Collaborative Learning for Imbalanced Data, Tcyb, 2022.
