@@ -8,3 +8,4 @@ A repo for recording some useful papers.
 * `Ensemble Learning` Ensemble Selection from Libraries of Models, ICML, 2004.
 
 > 2023-5-21
+* `AutoML` `Imbalanced Learning` Automated Imbalanced Learning, arxiv, 2022.
