@@ -15,4 +15,4 @@ A repo for recording some useful papers.
 * `Imbalanced Learning` Exploiting Synthetically Generated Data with Semi-Supervised Learning for Small and Imbalanced Datasets, AAAI, 2019.
 
 > 2023-5-22
-* 
+* `Imbalanced Learning` Rethinking the Value of Labels for Improving Class-Imbalanced Learning, NeurIPS, 2020.
