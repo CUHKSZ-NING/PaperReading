@@ -21,5 +21,5 @@ A repo for recording some useful papers.
 * `Imbalanced Learning` Granular Ball Sampling for Noisy Label Classification or Imbalanced Classification, TNNLS, 2023.
 
 > 2023-5-27
-* `Imbalanced Learning` Hashing-based undersampling ensemble for imbalanced pattern classification problems, TCyb, 2020.
+* `Imbalanced Learning` Hashing-Based Undersampling Ensemble for Imbalanced Pattern Classification Problems, TCyb, 2020.
 * `Imbalanced Learning` Random Space Division Sampling for Label-Noisy Classification or Imbalanced Classification, TCyb, 2022.
