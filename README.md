@@ -23,3 +23,6 @@ A repo for recording some useful papers.
 > 2023-5-27
 * `Imbalanced Learning` Hashing-Based Undersampling Ensemble for Imbalanced Pattern Classification Problems, TCyb, 2020.
 * `Imbalanced Learning` Random Space Division Sampling for Label-Noisy Classification or Imbalanced Classification, TCyb, 2022.
+
+> 2023-5-28
+* `Imbalanced Learning` `Genetic Algorithm` Ensemble of Classifiers Based on Multiobjective Genetic Sampling for Imbalanced Data, TKDE, 2020.
