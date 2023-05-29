@@ -26,3 +26,6 @@ A repo for recording some useful papers.
 
 > 2023-5-28
 * `Imbalanced Learning` `Genetic Algorithm` Ensemble of Classifiers Based on Multiobjective Genetic Sampling for Imbalanced Data, TKDE, 2020.
+
+> 2023-5-29
+* `Imbalanced Learning` Learning from Imbalanced Data, TKDE, 2009.
