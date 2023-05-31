@@ -1,5 +1,5 @@
 # PaperReading
-A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ denotes intensively read studies.
+A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ denotes intensively read.
 
 > 2023-5-20
 * `AutoML` Efficient and Robust Automated Machine Learning $\textcolor{red}{\checkmark}$, NeurIPS, 2015.
