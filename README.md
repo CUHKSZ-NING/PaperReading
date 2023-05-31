@@ -38,3 +38,4 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-01
 * `Machine Learning` Why do tree-based models still outperform deep learning on typical tabular data? NeurIPS, 2022.
 * `Machine Learning` Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation. NeurIPS, 2022.
+* `Imbalanced Learning` A Robust Oversampling Approach for Class Imbalance Problem With Small Disjuncts. TKDE, 2023.
