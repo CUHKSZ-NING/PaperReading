@@ -30,3 +30,7 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-5-29
 * `Imbalanced Learning` Learning from Imbalanced Data $\textcolor{red}{\checkmark}$, TKDE, 2009.
 * `Imbalanced Learning` Imputation-Based Ensemble Techniques for Class Imbalance Learning, TKDE, 2021.
+
+> 2023-5-31
+* `Imbalanced Learning` Oversampling With Reliably Expanding Minority Class Regions for Imbalanced Data Learning, TKDE, 2023.
+* `Imbalanced Learning` Spatial Distribution-Based Imbalanced Undersampling, TKDE, 2023.
