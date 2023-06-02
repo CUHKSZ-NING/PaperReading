@@ -42,3 +42,6 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 
 > 2023-06-02
 * `Machine Learning` Optimal Binary Classification Beyond Accuracy. NeurIPS, 2022.
+
+> 2023-06-03
+* `Imbalanced Learning` Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data. NeurIPS, 2022.
