@@ -48,3 +48,7 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 
 > 2023-06-05
 * `Semi-Supervised Learning` Improved Generalization in Semi-Supervised Learning: A Survey of Theoretical Results. TPAMI, 2023.
+
+> 2023-06-07
+* `Self-Supervised Learning` Exploring Simple Siamese Representation Learning. CVPR, 2021.
+
