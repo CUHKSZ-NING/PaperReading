@@ -53,5 +53,5 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 * `Self-Supervised Learning` Exploring Simple Siamese Representation Learning $\textcolor{red}{\checkmark}$. CVPR, 2021.
 
 > 2023-06-08
-* `NLP` Understanding Dataset Difficulty with V-Usable Information. ICML, 2022.
+* `NLP` Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information. ICML, 2022.
 * `Imbalanced Learning` `Semi-Supervised Learning` Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding. ICML, 2022.
