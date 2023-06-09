@@ -59,4 +59,5 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-09
 * `Optimization` Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification. ICML, 2022.
 * `Imbalanced Learning` `Semi-Supervised Learning` Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data. ICML, 2022.
-* `Semi-Supervised Learning` Adaptive Semi-Supervised Classifier Ensemble for High Dimensional Data Classification. TCyb, 2022.
+* `Semi-Supervised Learning` Adaptive Semi-Supervised Classifier Ensemble for High Dimensional Data Classification. TCyb, 2019.
+* `Semi-Supervised Learning` `Feature Selection` Semisupervised Feature Selection via Structured Manifold Learning. TCyb, 2022.
