@@ -65,3 +65,4 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-14
 * `Imbalanced Learning` Towards Inter-class and Intra-class Imbalance in Class-imbalanced Learning. arXiv, 2021.
 * `Imbalanced Learning` Improving Calibration for Long-Tailed Recognition. CVPR, 2021.
+* `Imbalanced Learning` Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data. CVPR, 2023.
