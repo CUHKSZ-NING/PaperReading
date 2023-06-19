@@ -76,3 +76,4 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-19
 * `Deep Learning` Deep Linear Networks can Benignly Overfit when Shallow Ones Do. JMLR, 2023.
 * `Machine Learning` abess: A Fast Best-Subset Selection Library in Python and R. JMLR, 2022.
+* `Optimization` Best subset selection via a modern optimization lens. The Annals of Statistics, 2016.
