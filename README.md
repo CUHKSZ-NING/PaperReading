@@ -73,4 +73,5 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-18
 * `Machine Learning` Randomization as Regularization: A Degrees of Freedom Explanation for Random Forest Success. $\textcolor{red}{\checkmark}$ JMLR, 2020.
 
+> 2023-06-19
 * `Deep Learning` Deep Linear Networks can Benignly Overfit when Shallow Ones Do. JMLR, 2023.
