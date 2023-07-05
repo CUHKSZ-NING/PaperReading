@@ -82,3 +82,6 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 > 2023-06-21
 * `Imbalanced Learning` Biased Random Forest For Dealing With the Class Imbalance Problem. TNNLS, 2019.
 * `Machine Learning` Random Forests. $\textcolor{red}{\checkmark}$ Machine Learning, 2001.
+
+> 2023-07-05
+* `Imbalanced Learning` Bayes Imbalance Impact Index: A Measure of Class Imbalanced Data Set for Classification Problem. TNNLS, 2019.
