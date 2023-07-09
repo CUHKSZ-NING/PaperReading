@@ -85,3 +85,7 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 
 > 2023-07-05
 * `Imbalanced Learning` Bayes Imbalance Impact Index: A Measure of Class Imbalanced Data Set for Classification Problem. TNNLS, 2019.
+
+> 2023-07-06
+* `Imbalanced Learning` A Synthetic Minority Oversampling Technique Based on Gaussian Mixture Model Filtering for Imbalanced Data Classification. TNNLS, 2022.
+* `Imbalanced Learning` Imbalanced Label Distribution Learning. AAAI, 2023.
