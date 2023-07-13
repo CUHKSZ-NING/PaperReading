@@ -74,7 +74,7 @@ A repo for recording some useful papers, where $\textcolor{red}{\checkmark}$ den
 * `Machine Learning` Randomization as Regularization: A Degrees of Freedom Explanation for Random Forest Success. $\textcolor{red}{\checkmark}$ JMLR, 2020.
 
 > 2023-06-19
-* `Deep Learning` Deep Linear Networks can Benignly Overfit when Shallow Ones Do. JMLR, 2023.
+* `Deep Learning` Deep Linear Networks can Benignly Overfit when Shallow Ones Do. JMLR, 2023.
 * `Machine Learning` abess: A Fast Best-Subset Selection Library in Python and R. JMLR, 2022.
 * `Optimization` Best subset selection via a modern optimization lens. The Annals of Statistics, 2016.
 * `Imbalanced Learning` Why does Throwing Away Data Improve Worst-Group Error? ICML, 2023.
